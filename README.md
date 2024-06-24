@@ -2,23 +2,23 @@
 - [Indice](#indice)
 - [Estructura de carpetas](#estructura-de-carpetas)
 - [Variables](#variables)
-  - [Int](#int)
-  - [Uint](#uint)
-  - [Float](#float)
-  - [String](#string)
+	- [Int](#int)
+	- [Uint](#uint)
+	- [Float](#float)
+	- [String](#string)
 - [Operadores Logicos](#operadores-logicos)
-  - [Or](#or)
-  - [And](#and)
+	- [Or](#or)
+	- [And](#and)
 - [Vetores](#vetores)
-  - [Array](#array)
-  - [Slice](#slice)
+	- [Array](#array)
+	- [Slice](#slice)
 - [Maps](#maps)
 - [For](#for)
 - [Functions](#functions)
 
 # Estructura de carpetas
 
-```json
+```sh
 /src
     gitlab.com
         subgroup
